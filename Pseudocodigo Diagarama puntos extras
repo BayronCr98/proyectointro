@@ -1,0 +1,25 @@
+Inicio:
+Declaracion de Variables : A,B,C,D,E con sus respectivos valores
+Mostrar: Ingrese una calificacion 
+Leer: Calificacion Ingresada o Nota
+Condicion: Nota es < (menor) o = (igual) a 20 
+Condicion respuesta NO:
+Mostrar: Ingrese una calificacion 
+Leer: Calificacion Ingresada o Nota
+Condicion respuesta SI: Nota es >(mayor) o =(igual) a 19 o Nota es =(igual) a 20
+Mostrar: Su Nota es: A
+Condicion respuesta NO: 
+Nota es >(mayor) o =(igual) a 16 o Nota es =(igual) a 18
+Condicion respuesta SI: 
+Mostrar: Su Nota es: B
+Condicion respuesta NO: 
+Nota es >(mayor) o =(igual) a 13 o Nota es =(igual) a 15
+ondicion resouesta SI: 
+Mostrar: Su Nota es: C
+Condicion respuesta NO: 
+Nota es >(mayor) o =(igual) a 10 o Nota es =(igual) a 12
+Condicion respuesta SI: 
+Mostrar: Su Nota es: D
+Condicion Respuesta NO: 
+Mostrar: Su Notata es: E
+Fin.
